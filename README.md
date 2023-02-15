@@ -21,6 +21,4 @@ The options_data table in the SQLite database will contain the following columns
 ```date_time```: the date and time of the data collection.
 ```ticker_symbol```: the ticker symbol of the stock for which the option chain data was collected.
 ```options_chain```: a JSON string containing the option chain data.
-## License
-This script is licensed under the MIT License, which means you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the script. Please see the LICENSE file for more details.
 
